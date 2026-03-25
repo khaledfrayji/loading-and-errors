@@ -26,7 +26,6 @@ This repository teaches how modern applications **handle failure using the Next.
 
 ## 📚 Course Structure
 
-* 00 → Introduction
 * 01 → Mental Model
 * 02 → error.tsx
 * 03 → global-error.tsx
